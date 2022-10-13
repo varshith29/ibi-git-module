@@ -1,3 +1,0 @@
-# sub file one
-
-foo/bar.txt file
